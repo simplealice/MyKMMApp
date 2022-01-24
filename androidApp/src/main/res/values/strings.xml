@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="city">City</string>
+    <string name="updated_at">Updated at</string>
+    <string name="_0">0°</string>
+    <string name="clear_sky">Clear sky</string>
+    <string name="min">Min</string>
+    <string name="max">Max</string>
+    <string name="sunrise">Sunrise</string>
+    <string name="_6_00_am">6:00 am</string>
+    <string name="sunset">Sunset</string>
+    <string name="_18_00_pm">18:00 pm</string>
+    <string name="humidity">Humidity</string>
+    <string name="_80">80%</string>
+    <string name="pressure">Pressure</string>
+    <string name="_760_mm">760 mm</string>
+    <string name="wind">Wind</string>
+    <string name="_15_km_h">15 km/h</string>
+    <string name="error_in_loading">Error in loading</string>
+    <string name="sun">Sun</string>
+</resources>
